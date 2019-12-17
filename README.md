@@ -1,4 +1,4 @@
-##  Installation K8s on EKS
+##  Installation EFK on EKS
 
 **create storageclass**
 ```
